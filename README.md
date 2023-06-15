@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @forgemichaelgroat
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Ruby, Apache AirFlow, Azure, and .NET
+- 🌱 Current technologies I'm working with include Ruby, Apache AirFlow, Azure, C#, and .NET
 - 💞️ I’m looking to collaborate on, currently company work
 - 📫 How to reach me, through Forge Global
 
