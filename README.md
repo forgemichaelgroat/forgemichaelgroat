@@ -1,6 +1,6 @@
 - 👋 Hi, I am @charlesschwab-michaelgroat.
 - 👀 I am interested in software development.
-- 🌱 Current technologies I am working with include Argo, Ruby, Apache AirFlow, Azure, AWS, C#, .NET, and RPG.
+- 🌱 Current technologies I am working with include .Net, Argo, Apache AirFlow, AWS, C#, Git & GitHub, Microsoft Azure, RPG, and Ruby.
 - 💞️ I am looking to collaborate on company work such as ShareX, the other lung of Forge Global, Incorporated.
 - 📫 how to reach me - currently through Forge Global, Incorporated
 
